@@ -6,14 +6,14 @@ This is the home screen of the application. </br>
 ![image](https://user-images.githubusercontent.com/93277335/149252941-5835a63f-b46e-468c-b455-b6c9410a8ced.png)
  
 
-When you load a contact it will bring up their information and show their punches
+When you load a contact it will bring up their information and show their punches</br>
  ![image](https://user-images.githubusercontent.com/93277335/149252959-4b2bd15c-30f2-4393-bb51-0e6e0d9cce2f.png)
 
 
-The contacts would buy dances, then use them until they no longer have punches left. If they are attending more than one group dance lesson on the same day it only counts as half a punch. 
+The contacts would buy dances, then use them until they no longer have punches left. If they are attending more than one group dance lesson on the same day it only counts as half a punch. </br>
  ![image](https://user-images.githubusercontent.com/93277335/149252973-bda8addc-8f62-4a8d-93c0-5b76bd034171.png)
 
-Once they reach 1 punch, it alerts the instructors that they are low on punches
+Once they reach 1 punch, it alerts the instructors that they are low on punches</br>
  ![image](https://user-images.githubusercontent.com/93277335/149252984-1c72ede4-1b73-45af-8711-7616bc9238dd.png)
 
 It will also email the customers to let them know when they are low on punches. 
