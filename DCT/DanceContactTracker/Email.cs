@@ -20,7 +20,7 @@ namespace DanceContactTracker
         public Email(string emailAdd, string name, string subject, string body)
         {
             //This is just creating the class.
-            myCreds = new NetworkCredential("djanddancepro@gmail.com", "Sw1ngsat10n", "");
+            myCreds = new NetworkCredential("djanddancepro@gmail.com", "xxxxxxxxx", "");
             client = new SmtpClient("smtp.gmail.com", 587);
             from = new MailAddress("djanddancepro@gmail.com", "Joe & Shari Tessier");
 
