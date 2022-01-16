@@ -1,6 +1,8 @@
 # DanceContactTracker
 This was the first application I wrote after I started learning how to code. It was built in C# as a click once application. In Vero Beach FL there is a dance studio that wanted a rewards system. What is kind of impressive is that they still use this application. 
+
 The coding pretty weak, but I keep it around because this was the application that helped me decide what I wanted to do with my future computer science degree. 
+
 ## Application
 This is the home screen of the application. </br>
 ![image](https://user-images.githubusercontent.com/93277335/149252941-5835a63f-b46e-468c-b455-b6c9410a8ced.png)
