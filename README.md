@@ -1,27 +1,23 @@
 # DanceContactTracker
-This was the first application I wrote after I started learning how to code. It was built in C# as a click once application. In Vero Beach FL there is a dance studio that wanted a rewards system. What is kind of impressive is that they still use this application. 
+This was the first application I wrote in C# as a Click Once application, after I first began learning how to code. This is a rewards system application that was created in 2012 for a dance studio in Vero Beach, FL. What is kind of impressive is that this application is still in use today without any maintenance.  
 
-The coding pretty weak, but I keep it around because this was the application that helped me decide what I wanted to do with my future computer science degree. 
+It is obvious the code was developed by a novice developer, but I keep it around because this was the application that helped me decide what I wanted to do with my future Computer Science degree.  
 
 ## Application
-This is the home screen of the application. </br>
-![image](https://user-images.githubusercontent.com/93277335/149252941-5835a63f-b46e-468c-b455-b6c9410a8ced.png)
- 
+This is the home screen of the application. </br> 
+![image](https://user-images.githubusercontent.com/93277335/149252941-5835a63f-b46e-468c-b455-b6c9410a8ced.png) 
 
-When you load a contact it will bring up their information and show their punches</br>
- ![image](https://user-images.githubusercontent.com/93277335/149252959-4b2bd15c-30f2-4393-bb51-0e6e0d9cce2f.png)
+When a contact is loaded, it will bring up their information and show their punches.</br> 
+![image](https://user-images.githubusercontent.com/93277335/149252959-4b2bd15c-30f2-4393-bb51-0e6e0d9cce2f.png) 
 
+The contacts will buy dances, then use them until no punches remain. If contacts are attending more than one group dance lesson on the same day, it only counts as half a punch. </br> 
+![image](https://user-images.githubusercontent.com/93277335/149252973-bda8addc-8f62-4a8d-93c0-5b76bd034171.png) 
 
-The contacts would buy dances, then use them until they no longer have punches left. If they are attending more than one group dance lesson on the same day it only counts as half a punch. </br>
- ![image](https://user-images.githubusercontent.com/93277335/149252973-bda8addc-8f62-4a8d-93c0-5b76bd034171.png)
-
-Once they reach 1 punch, it alerts the instructors that they are low on punches</br>
- ![image](https://user-images.githubusercontent.com/93277335/149252984-1c72ede4-1b73-45af-8711-7616bc9238dd.png)
-
-It will also email the customers to let them know when they are low on punches. 
+Once the contact has 1 punch remaining, it alerts the instructors and the contacts, via email, that they are low on punches.</br> 
+![image](https://user-images.githubusercontent.com/93277335/149252984-1c72ede4-1b73-45af-8711-7616bc9238dd.png) 
 
 ## Code
-This was back before I understood anything about panels or window list. The interesting thing is, I coded the visit and purchase list independently. 
+Before exploring the proper use of panels and windowlist, I developed the detail items for visits and purchases independently. 
 ```c#
 //Build Punch Card
 
